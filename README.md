@@ -3,7 +3,7 @@ For this challenge, I was asked to make a random password generator.
  
 ## Links:
 Link to Deployed Application:
- https://angelgiovanna.github.io/password-generator/
+https://angelgiovanna.github.io/password-generator/
  
 Link to GitHub Repository:
 https://github.com/angelgiovanna/password-generator
