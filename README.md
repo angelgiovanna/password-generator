@@ -31,3 +31,4 @@ SO THAT I can create a strong password that provides greater security
 * THEN the password is either displayed in an alert or written to the page
  
 ## Screenshot:
+![password readme](https://user-images.githubusercontent.com/96391351/154738150-4cf2250e-bdd4-4c67-a36a-09840556a431.png)
